@@ -7,6 +7,10 @@ layout: default
 
 ### Remote pair programming tools
 
-## Download
+## macOS Installation
 
-Coming soon!
+With Homebrew and Caskroom installed, just run:
+
+- `brew cask install ridetandem/tap/tandem`
+
+Or direct download [Tandem-0.1.0.dmg](https://github.com/RideTandem/tandem-releases/releases/download/v0.1.0/Tandem-0.1.0.dmg) directly.
