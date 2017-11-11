@@ -7,6 +7,8 @@ layout: default
 
 ### Remote pair programming tools
 
+NOTE: This is **ALPHA** version software. Do not use this in production or with sensitive information.
+
 ## macOS Installation
 
 With Homebrew and Caskroom installed, just run:
