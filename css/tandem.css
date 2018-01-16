@@ -1,0 +1,35 @@
+section.page {
+    padding: 3rem 0;
+}
+
+img.no-drop-shadow {
+    margin: 40px 0px;
+    max-width: 100%;
+}
+
+img.drop-shadow {
+    margin-bottom: -15px;
+    max-width: 100%;
+}
+
+p.sub {
+    color: #767e86;
+    font-size: 0.8rem;
+}
+
+@media (min-width: 992px) {
+    header.masthead.masthead--title {
+        height: 25rem;
+        min-height: inherit;
+    }
+
+    header.masthead.masthead--title h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    header.masthead.masthead--title h1 {
+        font-size: 4rem;
+    }
+}
